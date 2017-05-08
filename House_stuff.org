@@ -1,0 +1,9 @@
+#+TITLE: HOUSE STUFF!
+#+OPTIONS: ^:nil H:1 toc:nil
+
+* LIVING ROOM
+** TODO Get rid speakers
+   SCHEDULED: <2017-07-02 Sun>
+** TODO Hang pictures
+** TODO Paint
+   SCHEDULED: <2017-05-10 Wed>
