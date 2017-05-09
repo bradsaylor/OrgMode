@@ -1,0 +1,22 @@
+#+TITLE: Work to-do
+#+OPTIONS: H:1 toc:nil
+
+* Mag2
+** Hardware
+*** Update all SYNCOMM modules and distribute
+*** Evaluate HDMI switching on v4
+** Software
+*** DSP
+**** Evaluate v20 DSP
+**** Review bug list from Tonly
+*** UI
+**** Review bug list from Tonly
+** Other
+* D2 import utility
+** convert to .c
+** write version for batch loading
+** test
+** re-write procedure for .cfg import
+* Other 
+** TODO Buy china tickets
+   DEADLINE: <2017-05-08 Mon>
